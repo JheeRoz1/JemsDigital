@@ -123,7 +123,7 @@
     padding-bottom: 10rem;
     color: white;
     text-shadow: 1px 1px #ddd;
-    background-image: url(img/bg.jpg);
+    background-image: url(img/LOGO.jpg);
     background-attachment: fixed;
     background-size: cover;
     overflow: hidden;
@@ -208,7 +208,7 @@ section hr {
     padding-bottom: 10rem;
     color: white;
     font-weight: bold;
-    background-image: url(img/bg.jpg);
+    background-image: url(img/LOGO.jpg);
     background-attachment: fixed;
     background-size: cover;
     overflow: hidden;
